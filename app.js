@@ -1,7 +1,6 @@
 const express = require("express");
 const multer = require("multer");
 const path = require("path");
-const Video = require("./models/video");
 
 app = express();
 let http = require("http").Server(app);
@@ -31,17 +30,6 @@ app.get("/", (req, res) => {
 app.get("/livestream", (req, res) => {
   res.render("livestream");
 });
-
-app.get("/videos", (req, res) => {
-  Video.find((err, videos) => {
-    if (err) console.log(err);
-    else {
-      console.log(videos);
-      res.render("video", { videos: videos });
-    }
-  });
-});
-
 
 io.on("connection", function(socket) {
   console.log("a user connected");

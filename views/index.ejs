@@ -11,10 +11,15 @@
 <body>
     <div class="container">
       <h1>Camera System</h1>
-      <div class="content">
-        <a href="/videos">Videos</a>
-        <a href="/livestream">LiveStream</a>
-      </div>
+        <img src="" id="image" alt="live stream video" width="800px" height= "600px">
+        <script src="/socket.io/socket.io.js"></script>
+        <script>
+            const socket = io('http://192.168.1.6:8000');
+            socket.on('encoded_image', (data) => {
+                const imageEml = document.getElementById('image');
+                imageEml.src = `data:image/jpeg;base64, ${data}`;
+            });
+        </script>
     </div>
 </body>
 

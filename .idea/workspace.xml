@@ -1,22 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feat" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="87adb90c-637a-4d4a-8fe6-75a41401c6f3" name="Default Changelist" comment="" />
+    <list default="true" id="87adb90c-637a-4d4a-8fe6-75a41401c6f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/livestream.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/video.ejs" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1k7l85uuMVB7BFm2bjUdPlC3ZlX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.19.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.19.0" />
@@ -42,35 +85,55 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="202" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605678148075">
+    <state x="424" y="202" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605679473431">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="424" y="202" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605678148075" />
+    <state x="424" y="202" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605679473431" />
     <state x="825" y="337" width="474" height="299" key="Github.ShareDialog" timestamp="1605677986398">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="825" y="337" width="474" height="299" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605677986398" />
-    <state width="1899" height="329" key="GridCell.Tab.0.bottom" timestamp="1605678411877">
+    <state width="1899" height="329" key="GridCell.Tab.0.bottom" timestamp="1605688167874">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="329" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605678411877" />
-    <state width="1899" height="329" key="GridCell.Tab.0.center" timestamp="1605678411876">
+    <state width="1899" height="329" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605688167874" />
+    <state width="1899" height="329" key="GridCell.Tab.0.center" timestamp="1605688167873">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="329" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605678411876" />
-    <state width="1899" height="329" key="GridCell.Tab.0.left" timestamp="1605678411876">
+    <state width="1899" height="329" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605688167873" />
+    <state width="1899" height="329" key="GridCell.Tab.0.left" timestamp="1605688167873">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="329" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605678411876" />
-    <state width="1899" height="329" key="GridCell.Tab.0.right" timestamp="1605678411877">
+    <state width="1899" height="329" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605688167873" />
+    <state width="1899" height="329" key="GridCell.Tab.0.left/0.23.1920.1006@0.23.1920.1006" timestamp="1605688167853" />
+    <state width="1899" height="329" key="GridCell.Tab.0.right" timestamp="1605688167874">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="329" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605678411877" />
+    <state width="1899" height="329" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605688167874" />
     <state x="469" y="179" key="SettingsEditor" timestamp="1605678656634">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="469" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605678656634" />
+    <state x="666" y="295" width="588" height="490" key="find.popup" timestamp="1605679495150">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="666" y="295" width="588" height="490" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605679495150" />
     <state x="624" y="202" key="run.anything.popup" timestamp="1605065347698">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
